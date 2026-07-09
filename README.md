@@ -45,7 +45,7 @@ Something went wrong (Duplicate subId: ...)
 ## Установка
 
 ```bash
-git clone https://github.com/<ваш-username>/add-to-sub.git
+git clone https://github.com/diman-haritonov/add-to-sub.git
 cd add-to-sub
 chmod +x add-to-sub.sh
 ```
